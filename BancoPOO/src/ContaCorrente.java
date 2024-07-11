@@ -3,5 +3,4 @@ public class ContaCorrente extends Conta {
         super(numero);
     }
 
-    // Conta Corrente pode ter funcionalidades específicas, adicionadas aqui
-}
+   
